@@ -1,0 +1,37 @@
+_repo: R-gi-magyar-vit-zi--nekek--s-elegyes-dalok--2.-k-tet-_42326
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Balassa, Bálint, báró
+    aliases:
+    - Balassi, Bálint, báró
+    - Balassa, Balint, baro
+    birthdate: 1554
+    deathdate: 1594
+    gutenberg_agent_id: '46217'
+    url: http://www.gutenberg.org/2009/agents/46217
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thaly, Kálmán
+    alias: Thaly, Kalman
+    birthdate: 1839
+    deathdate: 1909
+    gutenberg_agent_id: '41632'
+    url: http://www.gutenberg.org/2009/agents/41632
+description: ''
+gutenberg_issued: '2013-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42326'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian poetry'
+title: Régi magyar vitézi énekek és elegyes dalok (2. kötet)
+url: http://www.gutenberg.org/ebooks/42326
